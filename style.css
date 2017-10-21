@@ -1,16 +1,17 @@
-	h1{
+
+
+.main_title h1{
     margin: auto;
     width: 28%;
     padding: 5px;
 	
 }
-h2{
-		    
+.main_title h2{	    
     margin: auto;
     width: 15%;
     padding: 10px;
 }
-ul {
+#navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -18,11 +19,11 @@ ul {
     background-color: #333;
 }
 
-li {
+#navigation ul li {
     float: left;
 }
 
-li a {
+#navigation ul li a{
     display: block;
     color: white;
     text-align: center;
@@ -30,10 +31,13 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+#navigation ul li a:hover {
     background-color: #111;
     
 }
+.resume h2{
+	position:left;
+}	
 img {
     display: block;
     margin: 0 auto;
