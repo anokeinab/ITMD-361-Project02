@@ -1,20 +1,27 @@
-	
 	h1{
     margin: auto;
     width: 28%;
     padding: 5px;
 	
 }
-	ul {
+h2{
+		    
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+}
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
 }
+
 li {
     float: left;
 }
+
 li a {
     display: block;
     color: white;
@@ -22,12 +29,19 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 li a:hover {
     background-color: #111;
     
 }
-body {
-font-family:veranda;    
-	    
-	    
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.biography{
+    position: absolute;
+    right: 300px;
+    width: 700px;
+    padding: 10px;
 }
