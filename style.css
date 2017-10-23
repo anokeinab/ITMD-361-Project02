@@ -33,18 +33,16 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	font-family:arial;
+    font-family:arial;
 }
 
 #navigation ul li a:hover {
     background-color: #111;
     
 }
-.resume h2{
-	position:left;
-}	
+
 .mypicture img {
-	position: absolute;
+    position: absolute;
     display: block;
     margin: 0 auto;
 	
@@ -55,5 +53,5 @@ body {
     right: 0px;
     width: 900px;
     padding: 10px;
-	font-family:arial;
+    font-family:arial;
 }
