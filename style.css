@@ -14,7 +14,8 @@ body {
     width: 15%;
     padding: 10px;
 	font-family:arial;
-}
+	
+}/*positioning and formating of the navigation bar*/
 #navigation ul {
     list-style-type: none;
     margin: 0;
@@ -35,7 +36,7 @@ body {
     text-decoration: none;
     font-family:arial;
 }
-
+/*change the 
 #navigation ul li a:hover {
     background-color: #111;
     
@@ -47,7 +48,7 @@ body {
     margin: 0 auto;
 	
 }
-
+/*positioning of the biography text on the index page*/
 .biography{
     position: absolute;
     right: 0px;
@@ -55,3 +56,8 @@ body {
     padding: 10px;
     font-family:arial;
 }
+/*positioning of the youtube embed video*/
+iframe{
+	float: left;
+	margin-left: 40px;
+}	
