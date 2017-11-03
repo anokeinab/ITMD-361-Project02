@@ -48,11 +48,11 @@ body {
 .mypicture img {
     float: left;
     display: block;
-    margin: 0 auto;	
+   	
 }
 .congopicture{
     width:610px;
-    height:723px;
+    height:504px;
 }
 /*positioning of the biography text on the index page*/
 .biography{
