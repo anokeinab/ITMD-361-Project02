@@ -25,7 +25,7 @@ body {
 }
 
 #navigation ul li {
-    margin-left:50%;
+    float:left;
 }
 
 #navigation ul li a{
@@ -59,7 +59,6 @@ body {
     float: right;
     right: 0px;
     width: 378px;
-    padding: 10px;
     font-family:arial;
 }
 /*positioning of the youtube embed video*/
