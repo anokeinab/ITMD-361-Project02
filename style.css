@@ -8,7 +8,7 @@ body {
 #content {
     background: grey;
     width: 1000px;
-    height: 600px;
+    height: 700px;
     margin: 0 auto;
 }
 header {
@@ -49,7 +49,7 @@ h2 {
     text-align: center;
 }
 li {
-    margin: 50px 50px;
+    margin: 50 px 50px;
     display: inline-block;
     list-style-type: none;
     overflow: hidden;
