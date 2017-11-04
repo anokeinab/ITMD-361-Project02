@@ -28,7 +28,7 @@ h2 {
     font-family: arial;
     text-align: center;
 }
-}
+
 /*positioning and formating of the navigation bar*/
 
 #navigation {
@@ -49,7 +49,7 @@ h2 {
     text-align: center;
 }
 li {
-    margin: 50 px 50px;
+    margin: 50px 50px;
     display: inline-block;
     list-style-type: none;
     overflow: hidden;
